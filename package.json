@@ -1,8 +1,8 @@
 {
-  "name": "eat-da-burger",
+  "name": "burgers",
   "version": "1.0.0",
-  "description": "Buger eating application with Node.js, Express, Handlebars, and MySQL.",
-  "main": "index.js",
+  "description": "Burger eating application with Node.js, Express, Handlebars, and MySQL.",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
