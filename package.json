@@ -8,19 +8,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/angrbrd/eat-da-burger.git"
+    "url": "git+https://github.com/nicoviarnes/burgers.git"
   },
   "keywords": [
     "burgers",
     "eating",
     "burgerfi"
   ],
-  "author": "Anna D Derbakova",
+  "author": "Nico Viarnes",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/angrbrd/eat-da-burger/issues"
+    "url": "https://github.com/nicoviarnes/burgers.git"
   },
-  "homepage": "https://github.com/angrbrd/eat-da-burger#readme",
+  "homepage": "https://github.com/nicoviarnes/burgers#readme",
   "dependencies": {
     "body-parser": "^1.17.1",
     "express": "^4.15.2",
